@@ -1,2 +1,2 @@
-# crud-simple
+ simple
 crud reactjs
